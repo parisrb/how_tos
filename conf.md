@@ -19,8 +19,8 @@ No one conference has the same appeal for the same reason,
 **What** are the keys to all this?
 * I have clear information on time
 * I can meet and talk with awesome people
-* Great venue, city, food and parties
-* You are profitable
+* Extras: great venue, city, food and parties
+* You are profitable so there is a "next time"
 
 
 ## Starting up
@@ -51,8 +51,6 @@ Giving back is good karma, so please be open and ready to give back.
 * give back to communities
   - let people speak with each other
     * schedule, venues, parties, or how lunch is served can help or hinder this
-  - welcome lightnings
-
 
 ## Communication
 ### Website
@@ -80,6 +78,8 @@ Have a mobile-compatible website, featuring:
 * topics: what topics are OK or KO? Products, sponsors, inspirational?
   - if it's not the first edition, what worked or did not will help you find examples
 * dates: what's the date for CFP opening, closing, choosing, telling speakers and telling everyone?
+
+RubyManor provides an interesting option with fully open CFP: http://vestibule.rubymanor.org/about
 
 ### Speakers
 * identification: name, social network handles, photo
@@ -115,9 +115,15 @@ Be fully clear and open with the selection process
 * questions
 * videotaping
 * pauses
-* lunch
+* food, if you do provide it
+  - if you provide the food, have options for allergies and religious restrictions
+    * you probably want to let people inform you beforehand
+  - (else, provide with a list of closeby, big-capacity restaurants)
+https://agl.designer.serveod.faveod.com/stylesheets/show/17
+
 * parties
 * activities: looks like EuRuCamp did things awesomely right
+* childcare
 
 ### After
 * visiting town, speakers and attendees dinner
