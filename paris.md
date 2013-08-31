@@ -12,9 +12,17 @@ To-dos:
 * Places & Museums
 For non-obvious travels: http://www.transilien.com/static/touristique/info-touristique
   - Louvre
-  - Notre-Dame (note the very nice Archaeologic Crypt, underneath the place. Stairs on the opposite side of the place)
+  - Salle du Jeu de Paume
+  - Grand Palais
+  - Musée Georges Pompidou
+  - Notre-Dame (note the very nice Archaeological Crypt, underneath the place. Stairs on the opposite side of the place)
   - Versailles (the travel is not obvious: RER C to Versailles Rive Gauche, "porte de Versailles" tram & metro do not lead there)
   - Palais de la Découverte
+
+* Entertainment
+  - Salle Pleyel
+  - Opéra
+  - Théâtre Athénée
 
 * Parks & walks
 Paris is actually very small.
@@ -31,13 +39,25 @@ Walking along the river Seine from the Tour Eiffel to Notre Dame will lead you t
   - Bagatelle, Jardin d'Acclimatation
 
 ## Food
-We the french are passionate about food. Best addresses are open for debate.
-Previous great locations include Le Pied de Cochon and le Louchebem.
+We the French are passionate about food. Best addresses are open for debate.
+Previous great locations include Le Pied de Cochon and le Louchebem, in the
+same area you can also try l'Autobus Impérial.
 
 ## Travel
-I like to walk and use the metro and buses.
-If you're moving a lot, look for unlimited tickets for your stay, for convenience.
-If you're just having one or two journeys a day, that might not be necessary.
+Paris has a dense public transportation system (buses, metros, trams, RERs).
+I like to walk and use the metro and buses.  If you're moving a lot, look for
+unlimited tickets for your stay, for convenience.  If you're just having one or
+two journeys a day, that might not be necessary. 
+
+A single ride in the main center (zone 1-2) is around €1.4 when bought by 10; a
+one-day pass "Mobilis" is around €7. Note that the daily "Paris visite" ticket
+is more expensive ( http://www.transilien.com/static/tarifs/mobilis vs.
+http://www.ratp.fr/en/ratp/r_61654/parisvisite/ ). There might be a good reason
+for the price difference but don't ask me why.
 
 ## Lodging
-The usual for a big city and european capital I guess.
+The usual for a big city and European capital I guess.
+
+## WiFi
+France has a few WiFi communities with which you can get free (rate-limited)
+Internet access. Ask your hosts/friends for credentials, which may be helpful.
