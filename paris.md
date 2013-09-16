@@ -65,6 +65,9 @@ Paris has many theaters, from huge to small. Some websites or beginning artists 
   - Opéra
   - Théâtre Athénée
 
+* **Ça c'est Paris**
+Every Friday, 10PM to 1AM: rent rollerblades and join the [RandoRoller](http://pari-roller.com/la-randonnee/point-de-rendez-vous/)
+
 
 ## Food
 We the French are passionate about food. Best addresses are open for debate.
