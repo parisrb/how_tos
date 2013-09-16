@@ -111,6 +111,13 @@ Be fully clear and open with the selection process
  - why not setting a trip so people meet each other during the trip?
 
 ### Talks
+* organisation
+  - have someone from the staff find the speaker 30mn prior to his talk
+  - test the computers, keynote, screens, sound system and video if any
+  - provide the speaker with water
+  - have someone aside the stage or in the front row make a countdown
+   (papers, signs, huge tablet app) often helps stay in the time boundaries
+
 * duration
 * questions
 * videotaping
@@ -122,6 +129,10 @@ Be fully clear and open with the selection process
 https://agl.designer.serveod.faveod.com/stylesheets/show/17
 
 * parties
+  - well everyone's fun is different
+  - remember: too much booze makes it hard to wake up on time
+  - parties are the ideal networking/exchanging places, some people like it not-so-loud
+
 * activities: looks like EuRuCamp did things awesomely right
 * childcare
 
