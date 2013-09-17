@@ -67,6 +67,9 @@ Paris has many theaters, from huge to small. Some websites or beginning artists 
 
 * **Ça c'est Paris**
 Every Friday, 10PM to 1AM: rent rollerblades and join the [RandoRoller](http://pari-roller.com/la-randonnee/point-de-rendez-vous/)
+I've been recommended [Nomades](http://www.nomadeshop.com/Location-de-roller.html#/page/Location/)  
+near Bastille for renting.
+
 
 
 ## Food
