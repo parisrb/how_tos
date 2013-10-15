@@ -67,6 +67,9 @@ Paris has many theaters, from huge to small. Some websites or beginning artists 
 
 * **Ça c'est Paris**
 Every Friday, 10PM to 1AM: rent rollerblades and join the [RandoRoller](http://pari-roller.com/la-randonnee/point-de-rendez-vous/)
+I've been recommended [Nomades](http://www.nomadeshop.com/Location-de-roller.html#/page/Location/)
+near Bastille for renting.
+
 
 
 ## Food
@@ -74,3 +77,6 @@ We the French are passionate about food. Best addresses are open for debate.
 Previous great locations include Le Pied de Cochon and le Louchebem, in the
 same area you can also try l'Autobus Impérial.
 
+Depending on your diet (allergies, beliefs...) you should definitely try:
+* pastries, cheese, meat and charcuterie, wine and perhaps beer,
+* buying a hot, straight out of the oven baguette and biting in it!
