@@ -55,14 +55,14 @@ Giving back is good karma, so please be open and ready to give back.
 ## Communication
 ### Website
 Have a mobile-compatible website, featuring:
-* topics
-  - then keynoters
-  - then speakers
-  - then schedule
 * date and place
   - dates
   - city
   - venue
+* topics
+  - then keynoters
+  - then speakers
+  - then schedule
 * prices
   - number and dates of early birds, expected discount
   - sponsoring plans
@@ -71,20 +71,22 @@ Have a mobile-compatible website, featuring:
 ### Social Networks
 * Twitter: bio has topic, dates and location
 * Lanyrd: correctly tagged
-  - GitHub: your website is open to contributions on GitHub (optional but very cool)
+- GitHub: your website is open to contributions on GitHub (optional but very cool)
 
 ## CFP
+* dates: what's the date for CFP opening, closing, choosing, telling speakers and telling everyone?
+* can speakers submit multiple talks? How?
 * provide someone to help speakers as soon as they have questions
 * topics: what topics are OK or KO? Products, sponsors, inspirational?
   - if it's not the first edition, what worked or did not will help you find examples
-* dates: what's the date for CFP opening, closing, choosing, telling speakers and telling everyone?
 
 RubyManor provides an interesting option with fully open CFP: http://vestibule.rubymanor.org/about
 
 ### Speakers
 * identification: name, social network handles, photo
-* speaker package: what's included? Do you pay for lodging and transportation? Is there a limit?
 * consider making them acknowledge the code of conduct
+* speaker package: what's included? Do you pay for lodging and transportation?
+  That's fine if there is a limit, please just state it upfront.
 
 ### Talks
 * identification: title and text
@@ -109,6 +111,15 @@ Be fully clear and open with the selection process
 * pre-conference dinner, speakers-only or fully included
 * finding the venue
  - why not setting a trip so people meet each other during the trip?
+
+### WiFi
+Internet connectivity is key among geeks.
+
+Some speakers need it, and foreign attendees will appreciate a little
+catching up on email/twitter if roaming charges are too high.
+
+Here's a checklist that might help you:
+http://thilo.me/post/62067077735/the-conference-wifi-checklist
 
 ### Talks
 * organisation
