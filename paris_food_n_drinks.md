@@ -57,13 +57,19 @@ Plus all the Marais and jazz clubs.
   Chatelet is RER A & B, Metro 1,4,7,11,14
   Center
 
+* Hall's beer Tavern / 68, rue Saint Denis, 75001 Paris, France
+  https://maps.google.com/maps?q=Halls+Beer+Tavern+Paris
+  Chatelet / Les Halles RER A & B, Metro 1,4,7,11,14
+  Center
+
 * la Gueuze / 19 Rue Soufflot, 75005 Paris, France
   https://maps.google.com/maps?q=la+gueuze+Paris
   RER B Luxembourg / Metro 10 Cluny La Sorbonne
+  Center
 
 * au Rendez-Vous des Belges / 23 Rue de Dunkerque, 75010 Paris, France
   https://maps.google.com/maps?q=le+rendez-vous+des+belges+Paris
-  Garde du Nord is RER B & D, Metro 4,5
+  Gare du Nord is RER B & D, Metro 4,5
 
 * neighbourhood: la Butte aux Cailles
   Metro 6 Corvisart / Metro 5,6,7 Place d'Italie / Metro 7 Tolbiac
