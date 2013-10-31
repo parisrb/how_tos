@@ -3,10 +3,13 @@
 ## TODO
 You need to test meat, wine, baguettes, cheese, crêpes, glaces Berthillon...
 
-Neighbourhoods to ask for drinks and meals are le Marais,
-Mouffetard/Monge, and the Butte aux Cailles in the south,
-Oberkampf where the students drink and around the Canal in the 10th more in the north,
-Belleville in the east,
+Neighbourhoods to ask for drinks and meals are
+* le Marais (Chatelet: center)
+* Mouffetard/Monge (center-south)
+* la Butte aux Cailles (Place d'Italie: south)
+* Oberkampf where the students drink (République: between center and north-east)
+* around the Canal in the 10th more in the (Gare de l'Est to Bastille: north to centery-north-easty)
+* Belleville (east)
 
 Also of interest: https://github.com/abelards/how_tos/blob/master/paris.md (things to do)
 
@@ -42,39 +45,50 @@ Plus all the Marais and jazz clubs.
 
 ## BEERS
 
-* La Fine Mousse www.lafinemousse.fr / 6 Avenue Jean Aicard  75011 Paris, France
+#### East (Père Lachaise)
+* La Fine Mousse www.lafinemousse.fr 
+  Metro 3 Rue Saint Maur / Metro 2 Ménilmontant 
+  6 Avenue Jean Aicard, 75011 Paris, France
   https://maps.google.com/maps?q=La+Fine+Mousse+Paris
-  Metro 3 Rue Saint Maur / Metro 2 Ménilmontant
-  East (Père Lachaise)
 
-* L'académie de la Bière acedemie-biere.com / 88Bis Boulevard de Port-Royal, 75005 Paris, France
+* neighbourhood: République / Oberkampf 
+  Metro République 3, 5, 8, 9, 11
+
+* neighbourhood: Bastille 
+  Metro Bastille 1, 5, 8
+
+#### South
+* L'académie de la Bière acedemie-biere.com 
+  RER B Port Royal / Metro 6 Raspail 
+  88Bis Boulevard de Port-Royal, 75005 Paris, France 
   https://maps.google.com/maps?q=L+académie+de+la+bière+Paris
-  RER B Port Royal / Metro 6 Raspail
-  South
 
-* Au Trappiste / 4 Rue Saint-Denis, 75001 Paris, France
-  https://maps.google.com/maps?q=Au+Trappiste+Paris
-  Chatelet is RER A & B, Metro 1,4,7,11,14
-  Center
-
-* Hall's beer Tavern / 68, rue Saint Denis, 75001 Paris, France
-  https://maps.google.com/maps?q=Halls+Beer+Tavern+Paris
-  Chatelet / Les Halles RER A & B, Metro 1,4,7,11,14
-  Center
-
-* la Gueuze / 19 Rue Soufflot, 75005 Paris, France
-  https://maps.google.com/maps?q=la+gueuze+Paris
-  RER B Luxembourg / Metro 10 Cluny La Sorbonne
-  Center
-
-* au Rendez-Vous des Belges / 23 Rue de Dunkerque, 75010 Paris, France
-  https://maps.google.com/maps?q=le+rendez-vous+des+belges+Paris
-  Gare du Nord is RER B & D, Metro 4,5
-
-* neighbourhood: la Butte aux Cailles
+* neighbourhood: la Butte aux Cailles 
   Metro 6 Corvisart / Metro 5,6,7 Place d'Italie / Metro 7 Tolbiac
 
-* neighbourhood: Mouffetard / Monge
+* neighbourhood: Mouffetard / Monge 
   Metro 7 Place Monge
+
+#### Center
+Chatelet is RER A & B, Metro 1,4,7,11,14
+
+* Au Trappiste (Chatelet-south: Place du Chatelet) 
+  4 Rue Saint-Denis, 75001 Paris, France 
+  https://maps.google.com/maps?q=Au+Trappiste+Paris
+
+* Hall's beer Tavern (Chatelet-Les Halles) 
+   68, rue Saint Denis, 75001 Paris, France 
+  https://maps.google.com/maps?q=Halls+Beer+Tavern+Paris
+
+* la Gueuze 
+  RER B Luxembourg / Metro 10 Cluny La Sorbonne 
+  19 Rue Soufflot, 75005 Paris, France 
+  https://maps.google.com/maps?q=la+gueuze+Paris
+
+#### North
+* au Rendez-Vous des Belges 
+  Gare du Nord is RER B & D, Metro 4,5 
+  23 Rue de Dunkerque, 75010 Paris, France 
+  https://maps.google.com/maps?q=le+rendez-vous+des+belges+Paris
 
 Enjoy Paris!

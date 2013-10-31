@@ -38,6 +38,10 @@ Paris is actually very small.
 Walking along the river Seine from the Tour Eiffel to Notre Dame will lead you to most landmarks quite pleasantly.
 I like parks but you might not be impressed. They are nice places to relax and hang out though. Most of them have WiFi!
 
+Here are all the parks in Paris:
+- paris.fr - http://parcsetjardins.equipement.paris.fr/
+- wikipedia - http://fr.wikipedia.org/wiki/Liste_des_espaces_verts_de_Paris
+
 * ** Monuments, Places & Museums**
   - Le Louvre (you'd need a few full days: plan a long trip and ticket, or just go to your favorite things. I like ancient Egypt ^^)
   - Notre-Dame (note the very nice Archaeologic Crypt, underneath the place. Stairs on the opposite side of the place)
